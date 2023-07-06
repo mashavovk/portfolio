@@ -8,7 +8,7 @@
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 p {
@@ -39,7 +39,7 @@ h6 {
   font-weight: bold;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -61,7 +61,7 @@ h4 {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content {
@@ -183,12 +183,8 @@ footer .contact-box p {
     line-height: 56px;
   }
 
-  h4 {
+  h3 {
     font-size: 24px;
-  }
-
-  .hero {
-    padding: 80px 20px;
   }
 
   .content {
